@@ -1,0 +1,56 @@
+
+.dieuhuong{
+  min-height: 75px;
+  padding-top: 0.2%;
+}
+.hienthinoidung{
+  background-color: white;
+  /*overflow-y:auto;*/
+    /*height:1000px;*/
+  /*overflow-x:auto;
+    width: 100%;*/
+}
+
+.input-group-text {background-image: linear-gradient(to right, #000428 0%, #004e92  51%, #000428  100%)}
+.input-group-text {
+    text-align: center;
+    transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 0 10px #eee;
+    border-radius: 10px;
+    display: block;
+}
+.input-group-text:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+ .btn_loaddata {background-image: linear-gradient(to right, #0575E6 0%, #021B79  51%, #0575E6  100%)}
+         .btn_loaddata {
+            margin: 5px;
+            padding: 7.5px 20px;
+            text-align: center;
+            /*text-transform: uppercase;*/
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .btn_loaddata:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+
+.hidden {
+  /*visibility: visible;*/
+  visibility: hidden;
+}
+.show {
+  visibility: visible;
+  /*visibility: hidden;*/
+}

@@ -1,0 +1,20 @@
+body {
+	background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+  color: white;
+}
+body >a{
+	color: white;
+}
+@media screen and (min-width: 601px) {
+  div.example {
+    font-size: 75px;
+  }
+}
+@media (max-width: 375px) { 
+	.mybody{
+		padding-top: 20%;
+	}
+ }
+ .footer{
+	
+}
